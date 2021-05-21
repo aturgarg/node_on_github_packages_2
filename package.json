@@ -1,0 +1,19 @@
+{
+  "name": "@aturgarg/node_on_github_packages_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aturgarg/node_on_github_packages_2.git"
+  },
+  "author": "aturgarg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aturgarg/node_on_github_packages_2/issues"
+  },
+  "homepage": "https://github.com/aturgarg/node_on_github_packages_2#readme"
+}
